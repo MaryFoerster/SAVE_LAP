@@ -176,6 +176,7 @@ height: 45vh;
 #carouselExampleIndicators .carousel-item img {
 height: 45vh;
 object-fit: cover;
+background-position: center;
 }
 /* -------carousel */
 
@@ -238,6 +239,7 @@ border-bottom: solid 1px white;
 background-image: url(../img/Konzert-Haende.jpg);
 background-size: cover;
 background-repeat: no-repeat;
+background-position: center;
 padding: 4rem;
 }
 .profil {
@@ -282,6 +284,7 @@ flex: 0 0 auto;
 width: 100%;
 }
 }
+
 /* -------Line Up */
 
 /* -------footer */
